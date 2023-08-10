@@ -6,4 +6,4 @@ In the project directory, you can run:
 
 ### 2- `nodemon app.js`
 
-Then access [http://localhost:3000/](http://localhost:3001/) and [http://localhost:3000/imcCalculator](http://localhost:3001/imcCalculator) in your browser.
+Then access [http://localhost:3001/](http://localhost:3001/) in your browser.
